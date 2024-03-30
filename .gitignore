@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+.project_config
+__pycache__/
+my_vars.py
